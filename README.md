@@ -2,8 +2,6 @@
 
 ## 📖 Descripción
 
-Este proyecto corresponde a mi trabajo de investigación para optar por el título profesional de Ingeniería de Sistemas en la Universidad de Lima.
-
 La investigación propone un sistema de gestión de ciberseguridad para Vehículos Aéreos No Tripulados (UAVs) que integra mecanismos de protección y técnicas de Machine Learning para detectar amenazas presentes en redes de comunicación UAV.
 
 El sistema combina cifrado, autenticación y detección de intrusos para fortalecer la seguridad de entornos UAV frente a diferentes tipos de ataques.
